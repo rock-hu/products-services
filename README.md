@@ -1,11 +1,18 @@
 # products-services
 
+📚 Getting Started
+
 ## maven
 
 ```bash
 
 mvn spotless:apply
 ```
+
+🤝 Contribution
+
+![Alt](https://repobeats.axiom.co/api/embed/f4b7880d4fe85e9f7db810e6e4b426a4bd99b650.svg "Repobeats analytics image")
+
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=rock-hu_products-services)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_products-services&metric=bugs)](https://sonarcloud.io/summary/new_code?id=rock-hu_products-services)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_products-services&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=rock-hu_products-services)
