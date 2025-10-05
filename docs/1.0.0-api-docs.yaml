@@ -121,6 +121,5 @@ paths:
 components:
   schemas:
     OBReadProduct2:
-      type: object
       description: Product details of Other Product which is not avaiable in the standard
         list
